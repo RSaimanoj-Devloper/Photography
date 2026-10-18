@@ -1,0 +1,6 @@
+{
+  "name": "LUMEN & MONOLITH — Fine Art & Editorial Photography",
+  "description": "Award-winning editorial, wedding, and architectural photography portfolio featuring client booking integration, biometric-secured private client galleries, high-resolution downloads, photography journal, and studio analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
